@@ -28,6 +28,3 @@ Technologies Used
 2) CSS3 – For styling, grid layout, responsiveness, and animations.
    
 3) Media Queries – For tablet and mobile responsiveness.
-CSS3 – For styling, grid layout, responsiveness, and animations.
-
-Media Queries – For tablet and mobile responsiveness.
