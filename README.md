@@ -90,7 +90,7 @@ Interactive hover animations are applied to:
 
 The hero section includes animated text that creates an engaging first impression for visitors.
 
-### 🖼 Image Highlight Section
+### Image Highlight Section
 
 Images and visual banners are integrated into the grid layout to enhance the aesthetic appeal.
 
@@ -160,6 +160,7 @@ grid-layout-assignment
 ---
 
 # Project Demo 
+https://github.com/vsbeginner/grid-layout-assignment/raw/main/Nature%20Grid%20Layout%20Demo.mp4
 
 ---
 
@@ -202,6 +203,3 @@ LinkedIn
 https://www.linkedin.com/in/vinayak-sharma-24a8aa384/
 
 ---
-
-⭐ If you found this project useful, consider **starring the repository**.
-
