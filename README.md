@@ -159,8 +159,16 @@ grid-layout-assignment
 
 ---
 
-# Project Demo 
-https://github.com/vsbeginner/grid-layout-assignment/raw/main/Nature%20Grid%20Layout%20Demo.mp4
+# 🎥 Project Video Walkthrough & UI Showcase
+
+<div align="center">
+  <video src="Nature%20Grid%20Layout%20Demo.mp4" controls="controls" width="100%"></video>
+  <br>
+  <sub><b>Video Walkthrough:</b> Responsive CSS Grid layout adapting fluidly across desktop, tablet, and mobile breakpoints.</sub>
+  <br><br>
+  <img src="grid-layout.jpg" alt="Nature Theme Grid Layout UI Screenshot" width="95%"><br>
+  <sub><b>Visual Layout:</b> Multi-column CSS Grid architecture with nature-themed aesthetic.</sub>
+</div>
 
 ---
 
